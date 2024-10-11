@@ -1,0 +1,1 @@
+[{"TenPhim":"A","GiaVeChuan":12000,"PhongChieu":[1,2,3]},{"TenPhim":"B","GiaVeChuan":13000,"PhongChieu":[1,2,3]},{"TenPhim":"C","GiaVeChuan":14000,"PhongChieu":[1,2,3]}]
