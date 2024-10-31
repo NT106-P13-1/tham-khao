@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab02", "Lab02\Lab02.csproj", "{EF8501C8-14FF-44B1-BFDB-193CD8F21244}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab04", "R:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024.2\Lab04\codes\Demo GET POST Json\POST\Lab04.csproj", "{7260AB58-69B7-488E-B1FC-99A61A7A4714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab04", "POST\Lab04.csproj", "{87518939-E111-4415-A765-B2850D4FD718}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{EF8501C8-14FF-44B1-BFDB-193CD8F21244}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF8501C8-14FF-44B1-BFDB-193CD8F21244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF8501C8-14FF-44B1-BFDB-193CD8F21244}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7260AB58-69B7-488E-B1FC-99A61A7A4714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7260AB58-69B7-488E-B1FC-99A61A7A4714}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7260AB58-69B7-488E-B1FC-99A61A7A4714}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7260AB58-69B7-488E-B1FC-99A61A7A4714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87518939-E111-4415-A765-B2850D4FD718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87518939-E111-4415-A765-B2850D4FD718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87518939-E111-4415-A765-B2850D4FD718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87518939-E111-4415-A765-B2850D4FD718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

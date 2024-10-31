@@ -1,0 +1,51 @@
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\bin\Debug\net6.0-windows\POST.exe
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\bin\Debug\net6.0-windows\POST.deps.json
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\bin\Debug\net6.0-windows\POST.runtimeconfig.json
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\bin\Debug\net6.0-windows\POST.dll
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\bin\Debug\net6.0-windows\POST.pdb
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.csproj.AssemblyReference.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.Form1.resources
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.csproj.GenerateResource.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.AssemblyInfoInputs.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.AssemblyInfo.cs
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.csproj.CoreCompileInputs.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.dll
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\refint\POST.dll
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.pdb
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\POST.genruntimeconfig.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET Json\POST\obj\Debug\net6.0-windows\ref\POST.dll
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.exe
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.deps.json
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.runtimeconfig.json
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.dll
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.pdb
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.csproj.AssemblyReference.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.Form1.resources
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.csproj.GenerateResource.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.AssemblyInfoInputs.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.AssemblyInfo.cs
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.csproj.CoreCompileInputs.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.dll
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\refint\POST.dll
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.pdb
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.genruntimeconfig.cache
+P:\My Drive\UIT\2022-2023\HK2\Lập trình mạng căn bản\Labs\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\ref\POST.dll
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.exe
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.deps.json
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.runtimeconfig.json
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.dll
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\bin\Debug\net6.0-windows\POST.pdb
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.csproj.AssemblyReference.cache
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.Form1.resources
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.csproj.GenerateResource.cache
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.GeneratedMSBuildEditorConfig.editorconfig
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.AssemblyInfoInputs.cache
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.AssemblyInfo.cs
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.csproj.CoreCompileInputs.cache
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.dll
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\refint\POST.dll
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.pdb
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\POST.genruntimeconfig.cache
+Q:\My Drive\UIT\Bài thực hành\2. Lập trình mạng căn bản\2024\Lab04\codes\Demo GET POST Json\POST\obj\Debug\net6.0-windows\ref\POST.dll

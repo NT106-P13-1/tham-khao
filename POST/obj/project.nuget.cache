@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/lh/mnOEOdm5q0E/MvlZ6kEZwnh2iYSLi1Seui0XEcKd7hk6JxtibP/SU3+Bi3Oc/uw/DTWGtkNyM1clX8SWg==",
+  "success": true,
+  "projectFilePath": "I:\\UIT\\Coding\\LTMCB\\ThamKhao-NT106-P13\\tham-khao\\POST\\Lab04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phatp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
